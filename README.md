@@ -25,4 +25,4 @@
 
 
 # История версий
-См. `docs/version_log.md`.
+См. `docs/version_log.md`.   
